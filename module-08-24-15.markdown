@@ -121,7 +121,7 @@ Talks:
 * Max Millington -
 * Vanessa Gomez -
 * Russel Harms -
-* Erik Butcher -
+* Erik Butcher - Problems Graphing Problems
 * Alex Tideman -
 * Adam Jensen -
 * Jerrod Paul-Junker -
